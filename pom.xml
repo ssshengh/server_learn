@@ -135,6 +135,13 @@
                 <version>${kaptcha.version}</version>
             </dependency>
 
+            <!--kotlin-->
+            <dependency>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-stdlib</artifactId>
+                <version>1.8.0</version>
+            </dependency>
+
             <!-- 定时任务-->
             <dependency>
                 <groupId>com.ruoyi</groupId>
